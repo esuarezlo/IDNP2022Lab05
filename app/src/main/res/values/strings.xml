@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IDNP2022Lab05</string>
+    <string name="lblUsuario">Usuario:</string>
+    <string name="lblPassword">Password:</string>
+</resources>
